@@ -4,7 +4,7 @@ A robust console-based security engine designed to detect and analyze system thr
 
 ![Version](https://img.shields.io/badge/version-1.0-blue.svg)
 ![C++](https://img.shields.io/badge/C++-17-00599C.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 
 **CyberSentinel** is a comprehensive console-based Intrusion Detection System (IDS) and Log Analysis tool implemented in C++ using Object-Oriented Programming principles. It provides security professionals with powerful capabilities for monitoring, analyzing, and responding to security incidents.
 
