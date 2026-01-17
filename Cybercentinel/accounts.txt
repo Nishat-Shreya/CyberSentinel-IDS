@@ -1,0 +1,3 @@
+ADMIN admin admin123
+ANALYST analyst analyst123
+AUDITOR auditor auditor123
